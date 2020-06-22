@@ -3,6 +3,7 @@
 ### Using Universal Sentence Encoder, can recognize comments of different languages
 
 ## Todo 
-### 1.build into a extension
+### 1.build into an extension
 ### 2.simplify the network
 ### 3.label more data
+### 4.please write more code
